@@ -1,0 +1,2 @@
+[console_scripts]
+papercaster = Paper2Post.cli:main
