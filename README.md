@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Paper2Post · 从论文到多平台爆款内容 📄✨
+
+</div>
 
 把一篇论文 PDF（一键解析文本）自动改写成：
 
