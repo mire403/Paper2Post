@@ -405,3 +405,28 @@ def main(argv: list[str] | None = None) -> None:
 欢迎你在此基础上魔改，贴合你自己的工作流。  
 如果你有新的平台需求，也可以在 `generators/` 下加一个模块，然后在 `cli.py` 里接入新的 CLI 参数即可。🚀
 
+---
+
+## 🤝 贡献与支持 (Contribution)
+
+**Paper2Post** 是一个开源项目，我们需要您的帮助让它变得更好！
+
+*   **给个 Star** ⭐：如果您觉得这个项目对您有帮助，请点击右上角的 Star，这是对我最大的鼓励！
+*   **提交 Issue** 🐛：发现 Bug 或有新功能建议？欢迎提交 Issue。
+*   **提交 PR** 🧑‍💻：欢迎贡献代码，无论是修复 Bug 还是增加新特性。
+
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+  <sub>Made by Haoze Zheng. 2026 Paper2Post.</sub>
+</div>
