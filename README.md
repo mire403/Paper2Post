@@ -1,6 +1,6 @@
 <div align="center">
 
-## Paper2Post · 从论文到多平台爆款内容 📄✨
+# Paper2Post · 从论文到多平台爆款内容 📄✨
 
 </div>
 
